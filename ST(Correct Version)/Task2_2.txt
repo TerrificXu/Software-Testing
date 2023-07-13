@@ -1,0 +1,5 @@
+In order to increase the code test coverage, the white box test method is adopted.
+By analyzing the functions in the parser class, analyze the functions or codes that have not been tested one by one,
+formulate a test plan, and finally improve the code test coverage.
+For example, the replace function has several conditions.It can be replaced by regular expressions and by matching key strings,
+so as to improve the code coverage.

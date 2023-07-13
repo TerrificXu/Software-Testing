@@ -1,0 +1,6 @@
+Cover three sub functions with one test case
+Three separate use cases are used to cover three sub functions respectively
+The coverage boundary of test cases is more clearly defined, the test results are more directional to product problems,
+the coupling degree between test cases is the lowest,
+and the interference between them is less.
+Each test case should be as simple as possible, and only verify the content you want to verify
